@@ -9,7 +9,8 @@ import java.util.Scanner;
 public class GuideRutin {
 	
 	public void guiderutin() {
-
+		
+		System.out.println("==========가이드 루틴 ==========");
 		ArrayList<String> yo_ = new ArrayList<>(Arrays.asList("월", "화", "수", "목", "금", "토", "일"));
 		ArrayList<Integer> ru = new ArrayList<>(Arrays.asList(3,4,5));
 		ArrayList<String> ru3_ = new ArrayList<>(Arrays.asList("(가슴+삼두)","(등+이두)","(하체+어깨)","(가슴+삼두)","(등+이두)","(하체+어깨)"));
